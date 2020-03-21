@@ -1,7 +1,7 @@
 ```sh
 git init
 
-git remote add origin https://github.com/robin8a/rtificial_ventilation_for_humans.git
+git remote add origin https://github.com/robin8a/artificial_ventilation_for_humans.git
 
 git push -u origin master
 
