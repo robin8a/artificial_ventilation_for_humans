@@ -21,13 +21,11 @@ need for a human operator for the BVM. An initial prototype was built out of acr
 https://web.mit.edu/2.75/projects/DMD_2010_Al_Husseini.pdf
 
 
-
-
 # Ventilator Modes Explained! PEEP, CPAP, Pressure vs. Volume
 [Good video to understand PEEP, CPAP, Pressure vs. Volume](https://youtu.be/iP_jN1qAPtI)
-
 
 # Guidance
 Rapidly manufactured ventilator system specification
 
 [Published 20 March 2020](https://www.gov.uk/government/publications/coronavirus-covid-19-ventilator-supply-specification/rapidly-manufactured-ventilator-system-specification)
+
