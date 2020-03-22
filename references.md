@@ -29,3 +29,27 @@ Rapidly manufactured ventilator system specification
 
 [Published 20 March 2020](https://www.gov.uk/government/publications/coronavirus-covid-19-ventilator-supply-specification/rapidly-manufactured-ventilator-system-specification)
 
+
+# OxyGEN Prototype
+https://youtu.be/0386hOgcQTA
+
+
+# Easily manufactured, open-source, and low-cost ventilator prototype for COVID-19 patients
+https://www.youtube.com/watch?v=RpEqtGa2vTI
+
+
+- [¿Cuál es el funcionamiento de un motorreductor?](https://tercesa.com/noticias/funcionamiento-motorreductor/)
+
+
+# BVM System
+- [Bag Valve Mask "BVM"](https://en.wikipedia.org/wiki/Bag_valve_mask)
+
+# Motor reductor (3D reporting)
+
+- [3d printed gearbox for small dc motors](https://www.youtube.com/watch?v=QSto7soM3mw)
+- [3D Printed Gearbox for RC Motor](https://www.youtube.com/watch?v=W3gJ8Fz_9Tw)
+
+# Air pump/compressor
+
+- [How to Make a Mini Air Compressor (Powerful Air Pump) Using Plastic Bottle - Tutorial](https://youtu.be/sYIxnmoMS1U)
+- [How To Make 12Volt Compressed Air Tank using PVC Pipe](https://www.youtube.com/watch?v=BIydaQMQ5Uc)
