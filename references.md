@@ -53,3 +53,8 @@ https://www.youtube.com/watch?v=RpEqtGa2vTI
 
 - [How to Make a Mini Air Compressor (Powerful Air Pump) Using Plastic Bottle - Tutorial](https://youtu.be/sYIxnmoMS1U)
 - [How To Make 12Volt Compressed Air Tank using PVC Pipe](https://www.youtube.com/watch?v=BIydaQMQ5Uc)
+
+
+# 3D Printing
+- [Worm Gear Box For RC CARS](https://www.thingiverse.com/thing:4171061)
+- [2-to-1 Ratio Set of Gears](https://www.thingiverse.com/thing:4233634)
