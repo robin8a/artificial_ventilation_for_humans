@@ -58,3 +58,39 @@ https://www.youtube.com/watch?v=RpEqtGa2vTI
 # 3D Printing
 - [Worm Gear Box For RC CARS](https://www.thingiverse.com/thing:4171061)
 - [2-to-1 Ratio Set of Gears](https://www.thingiverse.com/thing:4233634)
+- [Homemade Gear Casting, method of homemade silicone](https://www.youtube.com/watch?v=v44bEsL3TCo)
+
+
+# Air Pressure Sensor
+## Analog
+- [www.mouser.com ~ 96 USD](https://www.mouser.com/Sensors/Pressure-Sensors/_/N-6g7qc?P=1z0yqzx)
+- [transcat from 2.79 - 453 USD ](https://www.transcat.com/products/pressure-measurement/analog-pressure-gauges)
+- [Presion de las llantas, se podria conseguir: COIDO Analog Tyre Pressure Gauge](https://www.mrdiy.com.my/coido-analog-tyre-pressure-gauge-9001644-001001)
+- [Link como repararlos](https://calibrationawareness.com/5-techniques-pressure-gauge-adjustment-repair)
+
+
+## Digital
+
+- [DIY Bosch BMP280 Pressure Sensor Project Primer](https://www.electroschematics.com/bmp280-diy-project-primer/)
+- [BMP280 Mercado Libre, $20.000 COP](https://articulo.mercadolibre.com.co/MCO-464853912-sensor-de-presion-y-humedad-bme280-_JM?quantity=1#position=3&type=item&tracking_id=312d25f4-2c64-4efc-9ea3-cdbfe74cf953)
+- [TARJETA BMP280 sigmaelectronica $5600 COP](https://www.sigmaelectronica.net/producto/tarjeta-bmp280/)
+- [MPX5010GP Sensor de presión con acondicionador de señal y compensación por temperatura integrados. $71.400 COP](https://www.sigmaelectronica.net/producto/mpx5010gp/)
+- [Experiment: Arduino Pressure Sensor inside a DIY Inflatable, muy bien video con todos los elementos completos](https://www.youtube.com/watch?v=SSQb03E6DUo)
+- [DIY Digital Vacuum Gauge](https://www.instructables.com/id/DIY-Digital-Vacuum-Gauge/) 
+
+# Sensor de humedad
+## Digital
+- [Arduino: DHT11 Temperature & Humidity sensor with Arduino - Tutorial](https://www.youtube.com/watch?v=OogldLc9uYc)
+- [DHT11: SENSOR DE HUMEDAD Y TEMPERATURA. $9,996 COP](https://www.sigmaelectronica.net/producto/dht11/)
+
+# AMBU Project
+
+- [7 open hardware projects working to solve COVID-19](https://opensource.com/article/20/3/open-hardware-covid19)
+- [Generic Lab Equipement](http://www.gaudi.ch/GaudiLabs/?page_id=328)
+- [Oxygenation -Understanding your BVM Device 2](https://www.youtube.com/watch?v=PJiRABugTfg)
+- [What’s “Plan C” for COVID-19?](https://makezine.com/2020/03/22/whats-plan-c-for-covid-19/)
+- [Store: Bag Valve Masks](https://www.aedsuperstore.com/ambu-bvms-bag-valve-masks.html)
+- [Very good: Natalie Dickman, a bioengineering student at Rice University’s Oshman Engineering Design Kitchen (OEDK) and the “Take a Breather”](https://youtu.be/1t2t8d8xtD0)
+- [Best Ambu Bag And Mask of 2020 - Top Rated & Reviewed](https://afiavillage.com/ambu-bag-and-mask/)
+- [Good book explaining every part ](https://books.google.com.co/books?id=K5XlDAAAQBAJ&pg=PA98&lpg=PA98&dq=ambu+bvm+with+fans&source=bl&ots=wP6SHxxPof&sig=ACfU3U14JbiW0AO0gwrA0RIx09vfyIDmHg&hl=en&sa=X&ved=2ahUKEwjGlvuHybToAhVShOAKHSngDJ84ChDoATABegQIChAB#v=onepage&q=ambu%20bvm%20with%20fans&f=false)
+- [Ebay](https://www.ebay.com/itm/ADULT-Training-Bag-Valve-Mask-ambu-bag-BVM-for-CPR-Training-MCR-Medical-/221791723946)
