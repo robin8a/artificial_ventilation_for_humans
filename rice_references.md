@@ -5,7 +5,7 @@
 
 # Rieles 3D
 ## Listado de rieles hechos en 3D
--[Gear list Yeggi](https://www.yeggi.com/q/linear+gear/)
+- [Gear list Yeggi](https://www.yeggi.com/q/linear+gear/)
 
 ### Mejor opcion (viene para diferentes tipos de motores y tamaños)
 - [Linear Servo Actuators](https://www.myminifactory.com/object/3d-print-linear-servo-actuators-77542)
