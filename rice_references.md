@@ -48,3 +48,4 @@ https://www.dynamoelectronics.com/
 # DC motor controller
 
 - [La idea pero no tiene schemas](https://hackaday.com/2018/06/12/555-ways-to-speed-control-a-dc-motor/)
+- [Muy buena explicación: Interface L298N DC Motor Driver Module with Arduino](https://lastminuteengineers.com/l298n-dc-stepper-driver-arduino-tutorial/)
