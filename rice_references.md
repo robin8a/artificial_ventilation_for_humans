@@ -47,5 +47,40 @@ https://www.dynamoelectronics.com/
 
 # DC motor controller
 
-- [La idea pero no tiene schemas](https://hackaday.com/2018/06/12/555-ways-to-speed-control-a-dc-motor/)
+- [La idea es buena, pero no tiene schemas](https://hackaday.com/2018/06/12/555-ways-to-speed-control-a-dc-motor/)
 - [Muy buena explicación: Interface L298N DC Motor Driver Module with Arduino](https://lastminuteengineers.com/l298n-dc-stepper-driver-arduino-tutorial/)
+
+## A3967 Motor DC PAP Driver Stepper
+- [Controlador A3967 Motor DC PAP Driver Stepper - Easy driver](https://solectroshop.com/product-spa-1938-Controlador-A3967-Motor-DC-PAP-Driver-Stepper-Easy-driver.html)
+
+- [Best video: Arduino Stepper Tutorial - Using Sparkfun Big Easy Driver to create a single axis CNC](https://www.youtube.com/watch?v=SCyGM2Tp37w)
+
+- [ARDUINO + NEMA17(MOTOR PASO A PASO) + EASYDRIVER](https://www.youtube.com/watch?v=0UJMg5qcbso)
+- [](https://www.instructables.com/id/How-to-Interface-Easy-Driver-With-Stepper-Motor-Us/)
+
+## TB6612FNG: Dual DC Motor Driver + DoRobot
+
+- [TB6612FNG: Dual DC Motor Driver + DoRobot:](https://medium.com/jungletronics/tb6612fng-dual-dc-motor-driver-690abd44465d)
+
+- [Comprar: Vistronika 8.190 COP](https://www.vistronica.com/robotica/motores/drivers-de-motores/modulo-tb6612fng-para-control-de-motores-detail.html)
+
+-[Comprar: Mercado Libre 13.000 COP](https://electronica.mercadolibre.com.co/componentes-electronicos/tb6612fng)
+
+
+# Tornillos
+
+https://www.amazon.com/-/es/Tornillos-avellanados-reparaci%C3%B3n-electr%C3%B3nica-accesorios/dp/B07HC3LQYS
+
+10mm, 14 Led lights
+560k ohms
+470k ohms
+220 uf/ 50volt
+Capacitor 155j 400v
+16 4007 diode
+
+
+330k omhs
+15 ohms/ 1 watt
+Capacitor 155k 250 volts
+12 volt Z diode
+12 v Led Light
