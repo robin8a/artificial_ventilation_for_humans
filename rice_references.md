@@ -84,3 +84,11 @@ Capacitor 155j 400v
 Capacitor 155k 250 volts
 12 volt Z diode
 12 v Led Light
+
+
+# DC motor control with Arduino
+- [Muy bueno, Tutorial point: Arduino - DC Motor](https://www.tutorialspoint.com/arduino/arduino_dc_motor.htm)
+- [Arduino Lesson 13. DC Motors](https://learn.adafruit.com/adafruit-arduino-lesson-13-dc-motors)
+- [Arduino DC Motor Control Tutorial – L298N | PWM | H-Bridge](https://howtomechatronics.com/tutorials/arduino/arduino-dc-motor-control-tutorial-l298n-pwm-h-bridge/)
+- []()
+- []()
