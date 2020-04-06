@@ -46,10 +46,9 @@ https://www.dynamoelectronics.com/
 
 
 # DC motor controller
-
-- [La idea es buena, pero no tiene schemas](https://hackaday.com/2018/06/12/555-ways-to-speed-control-a-dc-motor/)
 - [Muy buena explicación: Interface L298N DC Motor Driver Module with Arduino](https://lastminuteengineers.com/l298n-dc-stepper-driver-arduino-tutorial/)
-
+- [La idea es buena, pero no tiene schemas](https://hackaday.com/2018/06/12/555-ways-to-speed-control-a-dc-motor/)
+- 
 ## A3967 Motor DC PAP Driver Stepper
 - [Controlador A3967 Motor DC PAP Driver Stepper - Easy driver](https://solectroshop.com/product-spa-1938-Controlador-A3967-Motor-DC-PAP-Driver-Stepper-Easy-driver.html)
 - [Best video: Arduino Stepper Tutorial - Using Sparkfun Big Easy Driver to create a single axis CNC](https://www.youtube.com/watch?v=SCyGM2Tp37w)
