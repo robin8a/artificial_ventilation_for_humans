@@ -52,12 +52,12 @@ https://www.dynamoelectronics.com/
 
 ## A3967 Motor DC PAP Driver Stepper
 - [Controlador A3967 Motor DC PAP Driver Stepper - Easy driver](https://solectroshop.com/product-spa-1938-Controlador-A3967-Motor-DC-PAP-Driver-Stepper-Easy-driver.html)
-
 - [Best video: Arduino Stepper Tutorial - Using Sparkfun Big Easy Driver to create a single axis CNC](https://www.youtube.com/watch?v=SCyGM2Tp37w)
-
 - [ARDUINO + NEMA17(MOTOR PASO A PASO) + EASYDRIVER](https://www.youtube.com/watch?v=0UJMg5qcbso)
-- [](https://www.instructables.com/id/How-to-Interface-Easy-Driver-With-Stepper-Motor-Us/)
-
+- [Instructables](https://www.instructables.com/id/How-to-Interface-Easy-Driver-With-Stepper-Motor-Us/)
+- [electrodragon, A3967 Easy Drive Stepper Driver](https://www.electrodragon.com/product/easydriver-stepper-motor-driver/)
+- [Stepper Motor driven by the EasyDriver and Arduino from Proto-PIC.co.uk](https://www.youtube.com/watch?v=vQe_KeyXPHI)
+- [Excelent explanation: Tutorial : Stepper Motor Microstepping With Arduino (Using Easy Drive Module)](https://www.youtube.com/watch?v=QHe_KwMH_SU)
 ## TB6612FNG: Dual DC Motor Driver + DoRobot
 
 - [TB6612FNG: Dual DC Motor Driver + DoRobot:](https://medium.com/jungletronics/tb6612fng-dual-dc-motor-driver-690abd44465d)
@@ -92,3 +92,21 @@ Capacitor 155k 250 volts
 - [Arduino DC Motor Control Tutorial – L298N | PWM | H-Bridge](https://howtomechatronics.com/tutorials/arduino/arduino-dc-motor-control-tutorial-l298n-pwm-h-bridge/)
 - []()
 - []()
+
+
+
+## PWM
+
+- [What is PWM](https://create.arduino.cc/projecthub/muhammad-aqib/arduino-pwm-tutorial-ae9d71)
+
+
+https://diyi0t.com/arduino-pwm-tutorial/
+
+este es: https://howtomechatronics.com/tutorials/arduino/arduino-dc-motor-control-tutorial-l298n-pwm-h-bridge/
+
+https://create.arduino.cc/projecthub/Fouad_Roboticist/dc-motors-control-using-arduino-pwm-with-l298n-h-bridge-d6ec91
+
+https://www.steren.com.co/proyectos-de-electronica/placas-y-accesorios-para-proyectos
+
+
+L298N motor driver 
