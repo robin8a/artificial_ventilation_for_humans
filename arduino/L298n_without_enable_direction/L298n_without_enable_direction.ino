@@ -23,12 +23,19 @@ void TurnMotorA2(){
   digitalWrite(in2,HIGH);
 }
 void loop() {
-  TurnMotorA(); // We turn to direction 1 for 3s then stop for 2s
-  delay(3000);
-  TurnOFFA();
-  delay(2000);
-  TurnMotorA2(); // We turn to direction 2 for 3s then stop for 2s
-  delay(3000);
-  TurnOFFA();
+  int i = 0;
+  // Accelerate from zero to maximum speed
+  for (int i = 0; i < 25; i++) {
+    TurnMotorA(); // We turn to direction 1 for 3s then stop for 2s
+    delay(10);
+    TurnOFFA(); 
+   }
+   delay(2000);
+   
+  for (int i = 0; i < 25; i++) {
+    TurnMotorA2(); // We turn to direction 2 for 3s then stop for 2s
+    delay(10);
+    TurnOFFA();
+  }
   delay(2000);
 }
