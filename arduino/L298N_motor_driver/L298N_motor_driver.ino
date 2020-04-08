@@ -28,37 +28,68 @@ void loop() {
 //  delay(1000);
 //  speedControl();
 //  delay(1000);
-  runDistance();
+//  runDistance();
 //  delay(1000);
+//  highPower();
+
 }
+
+
+void highPower(){
+  // Turn on motors
+  
+
+  
+  
+  analogWrite(enA, 180);
+  delay(100);
+  // Turn off motors
+  digitalWrite(in1, LOW);
+  digitalWrite(in2, LOW);
+  delay(800);
+
+  // Now change motor directions
+  digitalWrite(in1, LOW);
+  digitalWrite(in2, HIGH);
+  
+}
+
+void turnOnMotors(){
+  
+}
+
 
 void runDistance(){
    
   // Turn on motors
   digitalWrite(in2, HIGH);
   digitalWrite(in1, LOW);
-  
-  // Accelerate from zero to maximum speed
-  for (int i = 0; i < 25; i++) {
-    analogWrite(enA, 50);
-    delay(20);
-  }
-
-  
-  // Now change motor directions
   digitalWrite(in1, HIGH);
   digitalWrite(in2, LOW);
-//  delay(1000);
 
-  // Turn off motors
-//  digitalWrite(in1, LOW);
-//  digitalWrite(in2, LOW);
   
   // Accelerate from zero to maximum speed
-  for (int i = 0; i < 25; i++) {
-    analogWrite(enA, 50);
+  for (int i = 0; i < 20; i++) {
+    analogWrite(enA, 40);
     delay(20);
   }
+
+  
+//  // Now change motor directions
+//  digitalWrite(in1, HIGH);
+//  digitalWrite(in2, LOW);
+////  delay(1000);
+//
+  // Turn off motors
+  digitalWrite(in1, LOW);
+  digitalWrite(in2, LOW);
+  delay(10000);
+//  
+//  // Accelerate from zero to maximum speed
+//  for (int i = 0; i < 20; i++) {
+//    analogWrite(enA, 65);
+//    delay(25);
+//  }
 
   
 }

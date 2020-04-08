@@ -47,6 +47,7 @@ https://www.dynamoelectronics.com/
 
 # DC motor controller
 - [Muy buena explicación: Interface L298N DC Motor Driver Module with Arduino](https://lastminuteengineers.com/l298n-dc-stepper-driver-arduino-tutorial/)
+- [Funciona sin Enable (Potencia)](https://www.instructables.com/id/How-to-Use-L298n-to-Control-Dc-Motor-With-Arduino/)
 - [La idea es buena, pero no tiene schemas](https://hackaday.com/2018/06/12/555-ways-to-speed-control-a-dc-motor/)
 - 
 ## A3967 Motor DC PAP Driver Stepper
