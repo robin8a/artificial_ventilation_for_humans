@@ -25,14 +25,14 @@ void TurnMotorA2(){
 void loop() {
   int i = 0;
   // Accelerate from zero to maximum speed
-  for (int i = 0; i < 25; i++) {
+  for (int i = 0; i < 15; i++) {
     TurnMotorA(); // We turn to direction 1 for 3s then stop for 2s
     delay(10);
     TurnOFFA(); 
    }
    delay(2000);
    
-  for (int i = 0; i < 25; i++) {
+  for (int i = 0; i < 15; i++) {
     TurnMotorA2(); // We turn to direction 2 for 3s then stop for 2s
     delay(10);
     TurnOFFA();
