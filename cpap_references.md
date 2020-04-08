@@ -28,6 +28,13 @@
 - [Better exmple: Pressure airflow measure device with analog sensor [Arduino]](https://youtu.be/8YgCcV16MnU)
 - [Muy buena opcion sino se consigue algun componente: Building homemade ultrasonic air flow measurement device.](https://www.youtube.com/watch?v=BNTSSxzm1GM)
 - [Excelente animacion: Ultrasonic Flow Sensor](https://www.youtube.com/watch?v=_6CQVN3KYz8)
+- [Aliexpress: mpx10dp](https://www.aliexpress.com/cheap/cheap-mpx10dp.html)
+
+## Tiendas en Colombia
+- [Electrochina](https://electronicachina.com.co/)
+- 
+
+- []()
 - []()
 - []()
 - []()

@@ -24,12 +24,45 @@ void setup() {
 }
 
 void loop() {
-  directionControl();
-  delay(1000);
-  speedControl();
-  delay(1000);
+//  directionControl();
+//  delay(1000);
+//  speedControl();
+//  delay(1000);
+  runDistance();
+//  delay(1000);
 }
 
+void runDistance(){
+   
+  // Turn on motors
+  digitalWrite(in2, HIGH);
+  digitalWrite(in1, LOW);
+  
+  // Accelerate from zero to maximum speed
+  for (int i = 0; i < 25; i++) {
+    analogWrite(enA, 50);
+    delay(20);
+  }
+
+  
+  // Now change motor directions
+  digitalWrite(in1, HIGH);
+  digitalWrite(in2, LOW);
+//  delay(1000);
+
+  // Turn off motors
+//  digitalWrite(in1, LOW);
+//  digitalWrite(in2, LOW);
+  
+  // Accelerate from zero to maximum speed
+  for (int i = 0; i < 25; i++) {
+    analogWrite(enA, 50);
+    delay(20);
+  }
+
+  
+}
+ 
 // This function lets you control spinning direction of motors
 void directionControl() {
   // Set motors to maximum speed
