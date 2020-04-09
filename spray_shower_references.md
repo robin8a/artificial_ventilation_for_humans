@@ -1,3 +1,8 @@
+# 
+
+- [Video: Ducha frente supermercado](/resources/shower_colombia.mp4)
+- ![Benjamin Bannekat](/resources/ducha_cuaternario.jpeg)
+
 
 # Sprayer
 - [Pressure Sprayer](https://www.youtube.com/watch?v=DE6WF3NN9Mk)
@@ -62,8 +67,7 @@ Old
 - [Canecas en Colombia](https://www.olx.com.co/herramientas_c1062/q-canecas)
 - [Olx](https://www.olx.com.co/item/canecas-plasticas-con-tapa-5-galones-30-und-iid-1101305490)
 - [Olx: buen precio](https://www.olx.com.co/item/35000-garrafas-canecas-15-galones-selladas-iid-946495762)
-- []()
-
+- [CANECAS PULIDO, Packaging company in Soacha, Address: Cra. 2 ## 56-62, Soacha, Cundinamarca, Hours: , Open ⋅ Closes 5AM Fri, MaundyThursday might affect these hours, Phone: (1) 7785359](https://canecaspulido.com/JP/)
 
 
 ## Minicompresor 
@@ -90,6 +94,7 @@ Old
 - [PAVCO, Tubo 2x1m Presión 21-200 psi, Código 30023, (0), $20.900UND](https://www.homecenter.com.co/homecenter-co/product/30023/To-m-Presion-psi/30023)
 - [PAVCO, Tee 2 Presión, Código 30053, (0), $13.900UND](https://www.homecenter.com.co/homecenter-co/product/30053/Tee-Presion/30053)
 - [PAVCO, Soldadoura PVC 1/32Gl 118ml, Código 04686, (0), $13.900UND, MILILITRO$118](https://www.homecenter.com.co/homecenter-co/product/04686/Solaora-PVC-3Gl-ml/04686)
+- [PAVCO, Tubo 2x6m Presión 21-200 psi, Código 65897, (0), $83.000UND, METRO$13.833](https://www.homecenter.com.co/homecenter-co/product/65897/To-6m-Presion-psi/65897)
 - [PAVCO, Unión 2 Presión, Código 30587, (0), $3.900UND, Normal$4.800UND](https://www.homecenter.com.co/homecenter-co/product/30587/Union-Presion/30587)
 - [CartonPlast, Laminas](http://ciaempaques.com.co/es/producto/l-minas)
 - [Cepex, Aspersor Pop Up 3/4 Pulg, Modelo Aspersor CSP075, Código 263993, (0), $42.900UND](https://www.homecenter.com.co/homecenter-co/product/263993/Aspersor-Pop-Up-3-Plg/263993)
@@ -119,6 +124,24 @@ Old
 
 
 ## Electrónica
+
 ### Simple Solution to control DC motor
 - [Main reference: Arduino - DC Motor](https://www.tutorialspoint.com/arduino/arduino_dc_motor.htm)
 
+### Transistor 2N2222A
+- [2N2222A Transistor BJT NPN 40V - 600mA TO-92, Por Ferretrónica, $200,00](https://ferretronica.com/products/2n2222a-transistor-bjt-npn-40v-600ma-to-92?variant=19451282751581&currency=COP&utm_campaign=gs-2020-01-11&utm_source=google&utm_medium=smart_campaign&gclid=Cj0KCQjwj7v0BRDOARIsAGh37io8u1wQcFvVUIeMGmbHcKbA2eK--j0yxbX5Pt6-cmmOqOU_HzbcJ50aAubBEALw_wcB)
+
+### Motores
+- [Referencias, Motores, Ferretronica](https://ferretronica.com/search?type=article%2Cpage%2Cproduct&q=motor*)
+
+### mosfet IRF9530 (tenemos disponibles)
+- [ref: Topic: Multiple DC Motor Control via PWM Arduino - Mosfet getting hot!! (Read 8017 times)](https://forum.arduino.cc/index.php?topic=87689.0)
+- [How to control DC motor speed by MOSFET || home made || DIY projects || easy projects || Pradeep ||](https://www.youtube.com/watch?v=JbvxzKxt7x4)
+- [(Update 3)How to build the simplest DC Motor Speed Controller (Using MOSFET and Potentiometer)](https://www.youtube.com/watch?v=qmeENqruvZs)
+
+# Diodo Rectificador 1N4001
+- [Vistronica, $ 60](https://www.vistronica.com/componentes-activos/diodo-rectificador-1n4001-detail.html)
+
+
+# Arduino
+- [Arduino UNO R3 con Cable USB - Compatible, Por Arduino, $25.000,00](https://ferretronica.com/products/arduino-uno-r3-con-cable-usb-compatible?_pos=5&_sid=20551987d&_ss=r)
