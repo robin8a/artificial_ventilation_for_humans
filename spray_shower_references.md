@@ -9,7 +9,7 @@
 
 ## Motorized Sprayer
 - [Magic Sprayer | DIY Motorized Water Sprayer](https://www.youtube.com/watch?v=a8K3ngKuIjY)
-- [DIY Electric Weed Sprayer](https://www.youtube.com/watch?v=fu1uD8TS7G8)
+- [* Caneca: DIY Electric Weed Sprayer](https://www.youtube.com/watch?v=fu1uD8TS7G8)
 - [Homemade TRIMMER POWER SPRAYER !?](https://www.youtube.com/watch?v=kalb_TdqzJw)
 - [How To : Make a Pressurized Fluid Dispenser](https://www.youtube.com/watch?v=VbNhswhnvuA)
 - []()
@@ -19,11 +19,11 @@
 Build 12Volt Compressed Air Tank using Old Fire Extinguisher
 This use tyre inflator
 Old 
-- [Build 12Volt Compressed Air Tank using Old Fire Extinguisher](https://www.youtube.com/watch?v=LufOrt5yoJU)
+- [* Partes compresor: Build 12Volt Compressed Air Tank using Old Fire Extinguisher](https://www.youtube.com/watch?v=LufOrt5yoJU)
 - []()
 
 # Safe products for disinfecting
-- [16 safer disinfectants to use against coronavirus](https://www.treehugger.com/cleaning-organizing/safe-effective-cleaning-products-coronavirus.html)
+- [* Opciones desinfección: 16 safer disinfectants to use against coronavirus](https://www.treehugger.com/cleaning-organizing/safe-effective-cleaning-products-coronavirus.html)
 - []()
 
 # Pumps
@@ -83,16 +83,42 @@ Old
 
 
 
-## Tubos PVC, Sistemas de Riego
+## Tubos, Uniones (PVC)
 
 ### Homecenter
 - [Tubo 1/2x3m Presión 13.5-315 psi, Código 65874 (1), $5.600UND, METRO$ 1.867, Cantidad 200+](https://www.homecenter.com.co/homecenter-co/product/65874/To-3m-Presion-35-35-psi/65874)
+- [PAVCO, Tubo 2x1m Presión 21-200 psi, Código 30023, (0), $20.900UND](https://www.homecenter.com.co/homecenter-co/product/30023/To-m-Presion-psi/30023)
+- [PAVCO, Tee 2 Presión, Código 30053, (0), $13.900UND](https://www.homecenter.com.co/homecenter-co/product/30053/Tee-Presion/30053)
+- [PAVCO, Soldadoura PVC 1/32Gl 118ml, Código 04686, (0), $13.900UND, MILILITRO$118](https://www.homecenter.com.co/homecenter-co/product/04686/Solaora-PVC-3Gl-ml/04686)
+- [PAVCO, Unión 2 Presión, Código 30587, (0), $3.900UND, Normal$4.800UND](https://www.homecenter.com.co/homecenter-co/product/30587/Union-Presion/30587)
+- [CartonPlast, Laminas](http://ciaempaques.com.co/es/producto/l-minas)
+- [Cepex, Aspersor Pop Up 3/4 Pulg, Modelo Aspersor CSP075, Código 263993, (0), $42.900UND](https://www.homecenter.com.co/homecenter-co/product/263993/Aspersor-Pop-Up-3-Plg/263993)
+- [Cepex, Codo Manguera 16mm Conexión, Modelo Codo 90º D16 acetal marrón, Código 263998, (0), $10.200UND](https://www.homecenter.com.co/homecenter-co/product/263998/Codo-Manguera-16mm-Conexion/263998)
+- [Cepex, Tee Manguera 16mm Toma, Modelo Te D16 acetal marrón, Código 263997, (0), $10.200UND](https://www.homecenter.com.co/homecenter-co/product/263997/Tee-Mangera-6mm-Toma/263997)
+- [Ergo, Unión Manguera 3/4" Plástico, Código 296684, (0), $5.900UND](https://www.homecenter.com.co/homecenter-co/product/296684/Union-Mangera-3-Plastio/296684)
+
+### Mercado Libre
+- [Continental Contitech Frontier Epdm Manguera De Caucho Negro, $3.193.900, Stock disponible](https://articulo.mercadolibre.com.co/MCO-481815450-continental-contitech-frontier-epdm-manguera-de-caucho-negro-_JM?quantity=1#position=7&type=item&tracking_id=67fa80fd-bc05-4be6-b83e-9a2cce0448c6)
+- [Juego De Acople Y Conectores Rápidos Compresor 4 Pz Pretul$18.990](https://articulo.mercadolibre.com.co/MCO-551236218-juego-de-acople-y-conectores-rapidos-compresor-4-pz-pretul-_JM?quantity=1#position=15&type=item&tracking_id=32bc28a4-dd59-4da8-9406-d019a11ead62)
+
+## Sistemas de Riego
 - [RIEGOTEO, Manguera para Riego 16 mm x 100mt, Código 267447, (0), $68.900 UND, METRO$689](https://www.homecenter.com.co/homecenter-co/product/267447/Mangera-para-Riego-6-mm-mt/267447)
 
-## Tela
+## Tela, Carton Plast (Paredes)
+### Mercado Libre
 - [Tesicol, Rollo tela blanca 20m x 2.10m ancho 55gr/m2, Modelo PT2174, Código 425393, (0), $53.900UND, METRO CUADRADO$1.283](https://www.homecenter.com.co/homecenter-co/product/425393/Rollo-tela-lana-m-m-anho-55grm/425393)
+- [Laminas Carton Plast, $10.000, Stock disponible](https://articulo.mercadolibre.com.co/MCO-554228273-laminas-carton-plast-_JM?quantity=1#position=6&type=item&tracking_id=e47814ef-49bb-452d-8f90-6d7336d6a6b5)
 - []()
-- []()
-- []()
-- []()
+
+## Abrazadera, Grapas
+### Mercado libre
+- [Morris 22420 Abrazadera Para Cable De Plastico, 12inch, Natu, $66.900](https://articulo.mercadolibre.com.co/MCO-496041316-morris-22420-abrazadera-para-cable-de-plastico-12inch-natu-_JM?quantity=1#position=21&type=item&tracking_id=0f2472e1-0544-473f-94df-80d9c901961a)
+- [Grapa / Abrazadera 1/2 Doble Ala X 100 Unds. $10.710](https://articulo.mercadolibre.com.co/MCO-458919851-grapa-abrazadera-12-doble-ala-x-100-unds-_JM?quantity=1#position=11&type=item&tracking_id=37aea02a-0f8c-40d0-a067-10994c72506e)
+
+
+
+
+## Electrónica
+### Simple Solution to control DC motor
+- [Main reference: Arduino - DC Motor](https://www.tutorialspoint.com/arduino/arduino_dc_motor.htm)
 
