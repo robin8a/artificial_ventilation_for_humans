@@ -139,9 +139,44 @@ Old
 - [How to control DC motor speed by MOSFET || home made || DIY projects || easy projects || Pradeep ||](https://www.youtube.com/watch?v=JbvxzKxt7x4)
 - [(Update 3)How to build the simplest DC Motor Speed Controller (Using MOSFET and Potentiometer)](https://www.youtube.com/watch?v=qmeENqruvZs)
 
-# Diodo Rectificador 1N4001
+### Diodo Rectificador 1N4001
 - [Vistronica, $ 60](https://www.vistronica.com/componentes-activos/diodo-rectificador-1n4001-detail.html)
 
 
-# Arduino
+### Arduino
 - [Arduino UNO R3 con Cable USB - Compatible, Por Arduino, $25.000,00](https://ferretronica.com/products/arduino-uno-r3-con-cable-usb-compatible?_pos=5&_sid=20551987d&_ss=r)
+
+### Sensor Ultrasonido
+- [Sensor de Ultrasonido HY-SRF05, Por Ferretrónica, $8.000,00](https://ferretronica.com/products/sensor-de-ultrasonido-hy-srf05?_pos=1&_sid=f12dca931&_ss=r)
+
+### Pressure Sensor
+- [https://ferretronica.com/products/sensor-presion-industrial-1-2-mpa-174-psi-transductor?_pos=2&_sid=9e62f2404&_ss=r](https://ferretronica.com/products/sensor-presion-industrial-1-2-mpa-174-psi-transductor?_pos=2&_sid=9e62f2404&_ss=r)
+- [Wika, Sensores de presión](https://www.wika.co/products_pressure_sensors_es_es.WIKA)
+- [ESI Technology, Sensores de presión, Radio telemetría](http://www.isateck.com/productos_suministros_esi)
+
+## Valvula alivio de presión
+### Mercado Libre
+- [Mercado Libre: listado](https://listado.mercadolibre.com.co/valvula-de-alivio-presion)
+### Homecenter
+- [Watts, Valvula alivio de temperatura y presion 3/4pul, Modelo 100XL 3/4", Código 288970, $69.900UND](https://www.homecenter.com.co/homecenter-co/product/288970/valvula-alivio-de-temperatura-y-presion-3-4pul)
+- [Valvula alivio de presión ajustable 1/2pul, Modelo LF530C 1/2", Código 288971, $81.900UND](https://www.homecenter.com.co/homecenter-co/product/288971/valvula-alivio-de-presion-ajustable-1-2pul)
+- [Universal, Válvula de seguridad #4 naranja, Código 174126, $4.900UND](https://www.homecenter.com.co/homecenter-co/product/174126/valvula-de-seguridad-)
+
+## Rodachinas
+### Homecenter
+- [Fixser, Rodachina RLP Giratoria 5pg, Código 83072, $25.900UND](https://www.homecenter.com.co/homecenter-co/product/83072/Rodachina-RLP-Giratoria-5pg/83072)
+
+## Deposito limpia zapatos
+### Mercado Libre
+- [Organizador Mediano De Zapatos Transparente$24.950](https://articulo.mercadolibre.com.co/MCO-557957517-organizador-mediano-de-zapatos-transparente-_JM?matt_tool=68802118&matt_word&gclid=CjwKCAjw1cX0BRBmEiwAy9tKHnhxk5OT-E5Orgd-q1ncKmY3gHaqthi1xYb_xEjY7D6-G3aOtt6hphoCsKUQAvD_BwE&quantity=1)
+
+
+### Cortina
+- [Just Home Collection, Cortina Baño Peva Oso Polar 178x180 cm, Código 417537, $29.900UND](https://www.homecenter.com.co/homecenter-co/product/417537/Cortina-Bano-Peva-Oso-Polar-178x180-cm/417537)
+
+## Fuente regulada 12V Drive
+- []()
+
+
+## Sensor de movimiento
+- [Sensores simples que no requieren librería | Arduino](https://www.youtube.com/watch?v=HHKfQD4v3Vc)
