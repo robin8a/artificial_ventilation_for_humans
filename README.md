@@ -18,9 +18,9 @@ This is a list project that could help communities prevent the contagious of COV
 
 * **Robin Ochoa - *Initial work* - [Kamaylabs](https://github.com/robin8a)
 * **Jaime Rojas - *Initial work* - [Dot Desing](https://github.com/)
-* **Nelson - *Initial work* - [Dot Desing](https://github.com/)
-* **Arturo Gómez - *Initial work* - [Dot Desing](https://github.com/)
-* **Rose Peterson- *Initial work* - [Dot Desing](https://github.com/)
+* **Nelson - *Initial work* - [Nelson](https://github.com/)
+* **Arturo Gómez - *Initial work* - [Inter Pegasus](https://github.com/)
+* **Rose Peterson- *Initial work* - [Summus Group](https://github.com/)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
